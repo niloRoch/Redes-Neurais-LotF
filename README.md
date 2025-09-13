@@ -1,6 +1,6 @@
 # LOTOFÁCIL  
 
-Jogando na Lotofácil utilizando rede neural.  
+Rede neural para jogos da lotofácil 
 
 ## INFORMAÇÕES  
 
